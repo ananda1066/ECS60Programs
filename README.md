@@ -20,7 +20,7 @@ This program implements a version of the **bidirectional Dijkstra** algorithm, w
 ### How to Use The BidirectionalDijkstra Folder
 
 1) Place all the files in a single directory and run **make** to compile the executable runner.out.
-2) Run **./runner.out** <text file> 0.
+2) Run **./runner.out** *text file* **0**.
     Ex. **./runner.out roads100-4S.txt 0**
 3) Text files containing the roads and cities are provided for testing. 
 4) Use the comments to find what to remove in order to avoid printing the actual path.
